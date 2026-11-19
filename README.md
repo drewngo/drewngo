@@ -12,6 +12,7 @@
 ### Working On
 - Co-leading CosmoShox, WSU's NASA SUITS team, building a UI/UX spacesuit system — focused on software/hardware design and AI/ML
 - External Vice President of WSU's Society of Asian Scientists and Engineers (SASE) chapter
+- [VHDLBits](https://vhdl.drewngo.com) ([source](https://github.com/drewngo/vhdlbits)) — 216 VHDL-2008 practice problems for people who already know Verilog, with an online grader that simulates your design against a reference answer in GHDL
 - *(Paused)* [NOAA APT decoder](https://github.com/drewngo/noaa-apt-decoder-artix7) — FPGA + DSP decoder for NOAA weather-satellite signals on an Artix-7, with a working Python reference pipeline and fixed-point quantization sized for the DSP slices; Verilog implementation in progress
 
 ### Past Projects
